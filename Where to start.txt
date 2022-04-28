@@ -1,0 +1,7 @@
+1 Start with the Routes file so you can have a view of where you are going
+
+2 Write your app.go file next
+
+3. Then add some code tou your utils.go file
+
+4. Then go add code to your models files
